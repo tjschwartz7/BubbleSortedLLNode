@@ -1,7 +1,7 @@
 //Used cplusplus forums linked list insert and display functions, as well as its Node struct
 //Everything else was written by me
 //This essentially just gathers user input and enters it into a linked list.
-//It then sorts this input using bubble sort, arguably one of the slowest sorting algorithms (with the exceptions of some particularly exceptional algorithms like bogosort)
+//It then sorts this input using bubble sort, arguably one of the slowest sorting algorithms (with the exception of some particularly exceptional exceptions like bogosort)
 
 
 #include <iostream>
